@@ -1,6 +1,6 @@
 ![GoWMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowman813&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowman813&count_private=true&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GoWMan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gowman813&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowman813&count_private=true&show_icons=true&layout=compact&theme=tokyonight)]
+[![GoWMan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gowman813&theme=tokyonight)]
 
 <!--
 **GoWMan813/GoWMan813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
