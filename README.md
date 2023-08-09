@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/GoWMan)
+
 ![GoWMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowman813&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowman813&count_private=true&show_icons=true&langs_count=10&layout=compact&theme=tokyonight)
 ![GoWMan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gowman&theme=tokyonight)
