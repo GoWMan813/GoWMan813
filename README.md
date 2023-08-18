@@ -1,4 +1,5 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/GoWMan)
+[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png?_gl=1*1yszm2t*_ga*MTE5Nzg2OTY3Ni4xNjg5NTcyNDU0*_ga_M13FZ7VQ2C*MTY5MjMyMDg0OC4yMC4xLjE2OTIzMjYxNzUuMzguMC4w)](https://ko-fi.com/GoWMan)
+https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png?_gl=1*1yszm2t*_ga*MTE5Nzg2OTY3Ni4xNjg5NTcyNDU0*_ga_M13FZ7VQ2C*MTY5MjMyMDg0OC4yMC4xLjE2OTIzMjYxNzUuMzguMC4w
 
 ![GoWMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowman813&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowman813&count_private=true&show_icons=true&langs_count=10&layout=compact&theme=tokyonight)
